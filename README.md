@@ -2,9 +2,11 @@ Princípios Práticos de Programação
 
 213
 
-II.Plan twice
-I.Code once
-III.Test thrice
+Plan twice
+
+Code once
+
+Test thrice
 
 <!---
 principiospraticos/principiospraticos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
